@@ -20,3 +20,13 @@
 2. Run the command: "python -m venv venv", to create a virtual env
 3. Install Required Dependencies: "pip install -r requirements.txt"
 4. Run the jupyter notebook cells sequentially 
+
+
+## Data Source Attribution Links:
+- https://excelbianalytics.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales
+- https://www.kaggle.com/datasets/supratimnag06/shop-product-catalog?select=shop-product-catalog.csv
+
+## Other Github Projects
+- https://github.com/JariusBedward-8841640/LinearRegressionArchitecture_Workshop.git
+- https://github.com/JariusBedward-8841640/IntroToInference_WorkshopInclass.git
+- https://github.com/JariusBedward-8841640/DataStreamVisualization_Workshop_Team_3.git
